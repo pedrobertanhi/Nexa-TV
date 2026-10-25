@@ -1,14 +1,11 @@
-# Histórico público
+# Changelog
 
-## 3.0.1
+## 4.2.0 — 25/10/2026
 
-- Corrigida a sequência de foco após reorganizar aplicativos.
-- Navegação pelo controle estabilizada na tela inicial e no organizador.
-- Testes adicionais para as direções da grade.
-
-## 3.0.0
-
-- Backup e restauração local.
-- Recursos de acessibilidade.
-- Canal oficial de atualizações pelo GitHub Releases.
-- Identidade final do Nexa TV.
+- atualização opt-in, ETag, limite diário, SemVer estrito e URLs oficiais;
+- startup da Home sem rede e recuperação de preferências corrompidas;
+- backup hostil limitado e validado, sem licença nem estado de atualização;
+- licença local criptografada no Android Keystore;
+- intents externos ignorados e imagens de terceiros redimensionadas;
+- documentação de privacidade, segurança, incidentes e MASVS L1;
+- workflows com permissões mínimas e actions fixadas por SHA.

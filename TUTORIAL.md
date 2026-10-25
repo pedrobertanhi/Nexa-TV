@@ -1,4 +1,4 @@
-# Tutorial do Nexa TV 4.1.0
+# Tutorial do Nexa TV 4.2.0
 
 Este guia explica como instalar, configurar, atualizar e usar os recursos Free e
 Pro do Nexa TV em televisores Android TV e Google TV.
@@ -12,7 +12,7 @@ Pro do Nexa TV em televisores Android TV e Google TV.
 
 ## 2. Instalação usando pendrive
 
-1. Baixe `Nexa-TV-4.1.0-Free-Preview.apk` no computador ou celular.
+1. Baixe `Nexa-TV-4.2.0-Free-Preview.apk` no computador ou celular.
 2. Copie o APK para um pendrive.
 3. Conecte o pendrive à televisão.
 4. Abra um gerenciador de arquivos instalado na TV.
@@ -113,7 +113,19 @@ A licença não é transferida pelo backup. Ela continua ligada à identidade da
 instalação original; em uma reinstalação completa pode ser necessário informar a
 chave novamente ou solicitar o reset das TVs vinculadas.
 
-## 10. Tela inicial padrão
+O backup é um JSON legível. Quem receber o arquivo poderá ver o nome do perfil,
+a ordem e os aplicativos ocultos. Ele não inclui licença, identidade do aparelho,
+histórico de atualização, ETag nem a opção de consulta automática. Importar um
+backup não faz conexão com a internet.
+
+## 10. Atualizações seguras
+
+A consulta automática vem desligada. Para ativá-la, abra **Configurações →
+Atualizações** e confirme nesta TV. Depois disso, o Nexa TV consulta somente o
+repositório oficial, no máximo uma vez por dia. O aplicativo não baixa nem
+instala APKs sozinho: ele abre a página oficial e o usuário confirma a instalação.
+
+## 11. Tela inicial padrão
 
 Abra **Engrenagem → Tela inicial padrão**. Se o firmware oferecer a seleção,
 escolha Nexa TV. Alguns televisores não permitem substituir o launcher; nesses
@@ -122,7 +134,7 @@ casos, abra o Nexa TV normalmente pela lista de aplicativos.
 Para desfazer, escolha o launcher original nas configurações do Android ou
 desinstale o Nexa TV. Nunca remova componentes do sistema por comandos ADB.
 
-## 11. Solução de problemas
+## 12. Solução de problemas
 
 ### O APK não instala
 
@@ -153,7 +165,7 @@ desinstale o Nexa TV. Nunca remova componentes do sistema por comandos ADB.
 - teste com o tamanho de texto padrão;
 - informe o modelo da TV e envie uma foto da tela para correção específica.
 
-## 12. Segurança
+## 13. Segurança
 
 Baixe o Nexa TV somente do repositório oficial. O aplicativo não solicita
 contatos, microfone ou armazenamento amplo e não instala atualizações em

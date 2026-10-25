@@ -1,0 +1,44 @@
+name: Publish verified preview
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: Version without v
+        required: true
+        default: 4.2.0
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    if: startsWith(github.ref, 'refs/heads/release-upload-')
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+      - name: Rebuild and verify asset
+        env:
+          VERSION: ${{ inputs.version }}
+        run: |
+          [[ "$VERSION" =~ ^[0-9]+\.[0-9]+\.[0-9]+$ ]]
+          mkdir -p dist
+          cat release-private/parts/part-* > "dist/Nexa-TV-$VERSION-Free-Preview.apk"
+          sha256sum -c release-private/apk.sha256
+      - name: Publish prerelease
+        env:
+          GH_TOKEN: ${{ github.token }}
+          VERSION: ${{ inputs.version }}
+        run: |
+          APK="dist/Nexa-TV-$VERSION-Free-Preview.apk"
+          if gh release view "v$VERSION" >/dev/null 2>&1; then
+            gh release upload "v$VERSION" "$APK" --clobber
+            gh release edit "v$VERSION" --draft=false --prerelease --title "Nexa TV $VERSION Free Preview"
+          else
+            gh release create "v$VERSION" "$APK" --target main --prerelease \
+              --title "Nexa TV $VERSION Free Preview" --notes-file release-private/release-notes.md
+          fi
