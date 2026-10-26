@@ -4,18 +4,26 @@
 
 <h1 align="center">Nexa TV</h1>
 
+<h2 align="center">⬇️ CLIQUE ABAIXO PARA BAIXAR ⬇️</h2>
+
+<p align="center">
+  <a href="https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.2.0/Nexa-TV-4.2.0-Free-Preview.apk">
+    <img height="72" src="https://img.shields.io/badge/BAIXAR%20APK%20AGORA-NEXA%20TV%204.2.0-00C853?style=for-the-badge&amp;logo=android&amp;logoColor=white" alt="Baixar agora o APK do Nexa TV 4.2.0">
+  </a>
+</p>
+
+<h3 align="center">
+  <a href="https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.2.0/Nexa-TV-4.2.0-Free-Preview.apk">📺 TOQUE AQUI SE O BOTÃO NÃO ABRIR</a>
+</h3>
+
+---
+
 <p align="center">
   Um launcher cinematográfico, leve e pensado para navegação por controle remoto no Android TV e Google TV.
 </p>
 
 <p align="center">
   <strong>Versão atual: 4.2.0 Free Preview</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.2.0/Nexa-TV-4.2.0-Free-Preview.apk">
-    <img src="https://img.shields.io/badge/BAIXAR%20O%20APK-NEXA%20TV%204.2.0-8B5CF6?style=for-the-badge&amp;logo=android&amp;logoColor=white" alt="Baixar o APK do Nexa TV 4.2.0">
-  </a>
 </p>
 
 <p align="center"><strong>Android TV e Google TV 8.0 ou superior</strong></p>
