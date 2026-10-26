@@ -1,5 +1,13 @@
 # Changelog
 
+## 4.4.0 — 26/10/2026
+
+- planos Pro reorganizados em cartões grandes lado a lado;
+- valores de R$ 4,99 e R$ 9,90 sempre visíveis;
+- benefícios distribuídos uniformemente abaixo dos planos;
+- chave temporária de teste limitada ao certificado da prévia e com expiração;
+- versão interna elevada para versionCode 16.
+
 ## 4.3.0 — 26/10/2026
 
 - configurações simplificadas de 14 cartões para 8 categorias;

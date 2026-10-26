@@ -1,4 +1,4 @@
-# Tutorial do Nexa TV 4.3.0
+# Tutorial do Nexa TV 4.4.0
 
 Este guia explica como instalar, configurar, atualizar e usar os recursos Free e
 Pro do Nexa TV em televisores Android TV e Google TV.
@@ -12,7 +12,7 @@ Pro do Nexa TV em televisores Android TV e Google TV.
 
 ## 2. Instalação usando pendrive
 
-1. Baixe `Nexa-TV-4.3.0-Free-Preview.apk` no computador ou celular.
+1. Baixe `Nexa-TV-4.4.0-Free-Preview.apk` no computador ou celular.
 2. Copie o APK para um pendrive.
 3. Conecte o pendrive à televisão.
 4. Abra um gerenciador de arquivos instalado na TV.
@@ -75,6 +75,11 @@ O pagamento é realizado fora do aplicativo diretamente com Pedro.
 A chave é vinculada à identidade da TV. Não publique a chave nem a envie em
 grupos. Para trocar de aparelho, solicite o desvinculamento antes de ativar na
 nova televisão.
+
+Na versão 4.4.0 Free Preview, o desenvolvedor pode fornecer uma chave temporária
+para testar o plano Individual. Ela funciona apenas no APK assinado com o
+certificado de desenvolvimento, não consulta o servidor e expira em 25/11/2026.
+Essa chave não existe nem funciona na futura edição comercial.
 
 ## 7. Benefícios Pro
 

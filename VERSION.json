@@ -1,8 +1,10 @@
 {
-  "version_name": "4.3.0",
-  "version_code": 15,
+  "version_name": "4.4.0",
+  "version_code": 16,
   "channel": "free-preview",
-  "apk": "https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.3.0/Nexa-TV-4.3.0-Free-Preview.apk",
-  "sha256": "bed51ff48d6a326fc67e04e97febedcfdd2192ffc6a241763756385434d8e916",
-  "pro_activation_available": false
+  "apk": "https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.4.0/Nexa-TV-4.4.0-Free-Preview.apk",
+  "sha256": "e3408f6ff01afdc8ac23e74d24a209f69d3296a091031dc40e3cc2b2a2d34426",
+  "pro_activation_available": false,
+  "preview_test_activation_available": true,
+  "preview_test_expires_at": "2026-11-25T23:59:59Z"
 }
