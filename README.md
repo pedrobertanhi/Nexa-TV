@@ -12,6 +12,14 @@
   <strong>Versão atual: 4.2.0 Free Preview</strong>
 </p>
 
+<p align="center">
+  <a href="https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.2.0/Nexa-TV-4.2.0-Free-Preview.apk">
+    <img src="https://img.shields.io/badge/BAIXAR%20O%20APK-NEXA%20TV%204.2.0-8B5CF6?style=for-the-badge&amp;logo=android&amp;logoColor=white" alt="Baixar o APK do Nexa TV 4.2.0">
+  </a>
+</p>
+
+<p align="center"><strong>Android TV e Google TV 8.0 ou superior</strong></p>
+
 > [!IMPORTANT]
 > Este é o repositório público oficial de distribuição. A versão 4.2.0 disponível
 > aqui é uma prévia Free para testar a nova interface. A ativação comercial Pro
@@ -19,7 +27,8 @@
 
 ## Download
 
-**[Baixar Nexa TV 4.2.0 Free Preview](https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.2.0/Nexa-TV-4.2.0-Free-Preview.apk)**
+Se o botão acima não aparecer, use o
+**[link direto para baixar o APK](https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.2.0/Nexa-TV-4.2.0-Free-Preview.apk)**.
 
 - Android 8.0 ou superior;
 - Android TV ou Google TV;
