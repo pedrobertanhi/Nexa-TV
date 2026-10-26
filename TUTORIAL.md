@@ -1,4 +1,4 @@
-# Tutorial do Nexa TV 4.2.0
+# Tutorial do Nexa TV 4.3.0
 
 Este guia explica como instalar, configurar, atualizar e usar os recursos Free e
 Pro do Nexa TV em televisores Android TV e Google TV.
@@ -12,7 +12,7 @@ Pro do Nexa TV em televisores Android TV e Google TV.
 
 ## 2. Instalação usando pendrive
 
-1. Baixe `Nexa-TV-4.2.0-Free-Preview.apk` no computador ou celular.
+1. Baixe `Nexa-TV-4.3.0-Free-Preview.apk` no computador ou celular.
 2. Copie o APK para um pendrive.
 3. Conecte o pendrive à televisão.
 4. Abra um gerenciador de arquivos instalado na TV.
@@ -64,10 +64,10 @@ na tela inicial; essa opção pode ser alterada em **Aparência e animações**.
 O pagamento é realizado fora do aplicativo diretamente com Pedro.
 
 1. Escolha o plano mensal:
-   - **Individual:** 1 TV por 30 dias;
-   - **Família:** até 3 TVs por 30 dias.
+   - **Individual:** R$ 4,99 por mês, para 1 TV e 30 dias;
+   - **Família:** R$ 9,90 por mês, para até 3 TVs e 30 dias.
 2. Depois da confirmação do pagamento, receba sua chave Nexa TV.
-3. Na televisão, abra **Engrenagem → Nexa TV Pro → Ativar meu Pro**.
+3. Na televisão, abra **Engrenagem → aba Nexa TV Pro → Ativar meu Pro**.
 4. Digite a chave completa e selecione **Liberar meu Pro**.
 5. Aguarde a tela **Pro ativado**.
 6. Selecione **Personalizar agora** para acessar os benefícios.
@@ -92,8 +92,7 @@ preferências Pro permanecem salvas e voltam depois da renovação.
 
 1. Faça o novo pagamento mensal diretamente com Pedro.
 2. A licença existente receberá mais 30 dias.
-3. A TV verifica a renovação automaticamente quando estiver conectada.
-4. Para consultar imediatamente, abra **Nexa TV Pro → Atualizar assinatura**.
+3. Abra a aba **Nexa TV Pro → Atualizar assinatura** para consultar a renovação.
 
 Se a assinatura ainda possui dias restantes, eles são preservados. Se já venceu,
 os 30 dias começam no momento da renovação.
