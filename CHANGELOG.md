@@ -1,5 +1,14 @@
 # Changelog
 
+## 4.5.0 — 26/10/2026
+
+- compra única de R$ 47,90 para desbloquear todos os recursos em 1 TV;
+- removidos os planos mensais Individual e Família;
+- aba renomeada e redesenhada como Nexa TV Completo;
+- destaques de campos, menus, selos, ícones e reorganização acompanham o tema;
+- chave comercial permanente e chave de prévia ainda temporária;
+- versão interna elevada para versionCode 17.
+
 ## 4.4.0 — 26/10/2026
 
 - planos Pro reorganizados em cartões grandes lado a lado;

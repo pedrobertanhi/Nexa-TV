@@ -7,13 +7,13 @@
 <h2 align="center">⬇️ CLIQUE ABAIXO PARA BAIXAR ⬇️</h2>
 
 <p align="center">
-  <a href="https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.4.0/Nexa-TV-4.4.0-Free-Preview.apk">
-    <img height="72" src="https://img.shields.io/badge/BAIXAR%20APK%20AGORA-NEXA%20TV%204.4.0-00C853?style=for-the-badge&amp;logo=android&amp;logoColor=white" alt="Baixar agora o APK do Nexa TV 4.4.0">
+  <a href="https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.5.0/Nexa-TV-4.5.0-Free-Preview.apk">
+    <img height="72" src="https://img.shields.io/badge/BAIXAR%20APK%20AGORA-NEXA%20TV%204.5.0-00C853?style=for-the-badge&amp;logo=android&amp;logoColor=white" alt="Baixar agora o APK do Nexa TV 4.5.0">
   </a>
 </p>
 
 <h3 align="center">
-  <a href="https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.4.0/Nexa-TV-4.4.0-Free-Preview.apk">📺 TOQUE AQUI SE O BOTÃO NÃO ABRIR</a>
+  <a href="https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.5.0/Nexa-TV-4.5.0-Free-Preview.apk">📺 TOQUE AQUI SE O BOTÃO NÃO ABRIR</a>
 </h3>
 
 ---
@@ -23,53 +23,49 @@
 </p>
 
 <p align="center">
-  <strong>Versão atual: 4.4.0 Free Preview</strong>
+  <strong>Versão atual: 4.5.0 Free Preview</strong>
 </p>
 
 <p align="center"><strong>Android TV e Google TV 8.0 ou superior</strong></p>
 
 > [!IMPORTANT]
-> Este é o repositório público oficial de distribuição. A versão 4.4.0 disponível
-> aqui é uma prévia Free para testar a nova interface e uma ativação Pro
+> Este é o repositório público oficial de distribuição. A versão 4.5.0 disponível
+> aqui é uma prévia Free para testar a nova interface e uma ativação completa
 > temporária. A ativação comercial será liberada depois da publicação do servidor.
 
 ## Download
 
 Se o botão acima não aparecer, use o
-**[link direto para baixar o APK](https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.4.0/Nexa-TV-4.4.0-Free-Preview.apk)**.
+**[link direto para baixar o APK](https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.5.0/Nexa-TV-4.5.0-Free-Preview.apk)**.
 
 - Android 8.0 ou superior;
 - Android TV ou Google TV;
-- SHA-256: `e3408f6ff01afdc8ac23e74d24a209f69d3296a091031dc40e3cc2b2a2d34426`.
+- SHA-256: `140aef1f84166c1ac4c70b87f7e376a0f5fe3aa82eda879501a5f22f58f2a0c2`.
 - certificado da prévia: `459cb753e9fcf554f58f977a092b5a4d81ba3b0028bbbc031bc86a09b3c69eab`.
 
 Baixe somente por este repositório. Consulte o **[tutorial completo](TUTORIAL.md)**
 antes de instalar ou substituir uma versão anterior.
 
-## Novidades da versão 4.4.0
+## Novidades da versão 4.5.0
 
-- Planos reorganizados em dois cartões grandes, lado a lado.
-- Valores e limites de aparelhos sempre visíveis.
-- Plano Individual: **R$ 4,99 por mês**, para 1 TV.
-- Plano Família: **R$ 9,90 por mês**, para até 3 TVs.
-- Benefícios distribuídos numa faixa uniforme abaixo dos planos.
+- Nexa TV Completo por **R$ 47,90 em pagamento único**, para 1 TV.
+- Sem mensalidade e com todos os recursos desbloqueados permanentemente.
+- Oferta única mais clara na aba separada **Nexa TV Completo**.
+- Cores selecionadas agora também aparecem em campos, menus, selos, ícones e
+  no modo de reorganização, sem roxo fixo fora do tema Nexa padrão.
 - Chave temporária de teste disponível até 25/11/2026 somente nesta prévia.
 
-### Planos Pro
+### Nexa TV Completo
 
-O pagamento é feito fora do aplicativo. Depois do pagamento, o usuário recebe
-uma chave mensal e a digita na aba **Configurações → Nexa TV Pro**.
+O pagamento é feito fora do aplicativo. Depois do pagamento único de R$ 47,90,
+o usuário recebe uma chave e a digita em **Configurações → Nexa TV Completo**.
+A chave comercial desbloqueia o aplicativo permanentemente em 1 TV.
 
-| Plano | Preço mensal | Aparelhos |
-|---|---:|---:|
-| Individual | R$ 4,99 | 1 TV |
-| Família | R$ 9,90 | até 3 TVs |
-
-Benefícios Pro: temas premium, cores e gradientes personalizados, papel de
+Benefícios: temas, cores e gradientes personalizados, papel de
 parede próprio e tamanho ajustável dos cartões.
 
 > [!NOTE]
-> A chave temporária libera o plano Individual apenas para testar a interface.
+> A chave temporária libera o aplicativo completo apenas para testar a interface.
 > Ela só funciona no APK oficial da prévia, fica vinculada à instalação e expira
 > automaticamente em 25/11/2026. Ela não funcionará na edição comercial.
 
@@ -118,8 +114,8 @@ launcher original do sistema.
 
 O Nexa TV não solicita contatos, localização, microfone ou armazenamento amplo.
 A internet permanece desligada no fluxo de atualização até o usuário ativar a
-opção ou tocar em verificar. Na futura edição comercial, também será usada em
-ações manuais de ativação e atualização da assinatura Pro. Preferências ficam no
+opção ou tocar em verificar. Na futura edição comercial, também será usada na
+ativação manual da licença. Preferências ficam no
 armazenamento privado da TV. Consulte a [política de privacidade](PRIVACY.md).
 
 ## Verificar integridade
@@ -128,8 +124,8 @@ No computador, compare o SHA-256 do arquivo com `SHA256SUMS.txt`. Com o Android
 SDK instalado, confira também o certificado:
 
 ```shell
-sha256sum Nexa-TV-4.4.0-Free-Preview.apk
-apksigner verify --verbose --print-certs Nexa-TV-4.4.0-Free-Preview.apk
+sha256sum Nexa-TV-4.5.0-Free-Preview.apk
+apksigner verify --verbose --print-certs Nexa-TV-4.5.0-Free-Preview.apk
 ```
 
 Se qualquer valor divergir, não instale. Use [SECURITY.md](SECURITY.md) para

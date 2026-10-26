@@ -1,177 +1,48 @@
-# Tutorial do Nexa TV 4.4.0
+# Tutorial do Nexa TV 4.5.0
 
-Este guia explica como instalar, configurar, atualizar e usar os recursos Free e
-Pro do Nexa TV em televisores Android TV e Google TV.
+## Instalar na televisão
 
-## 1. Antes de instalar
+1. Baixe `Nexa-TV-4.5.0-Free-Preview.apk` pelo botão verde do README.
+2. Copie o APK para um pendrive e conecte-o à TV.
+3. Abra o arquivo com um gerenciador de arquivos.
+4. Autorize temporariamente a instalação de apps desconhecidos para esse
+   gerenciador, instale e depois revogue essa autorização.
+5. Abra o Nexa TV e teste setas, OK, Voltar e a abertura dos aplicativos antes
+   de configurá-lo como tela inicial.
 
-- Confirme que a TV usa Android TV ou Google TV 8.0 ou superior.
-- Baixe o APK somente no repositório oficial `pedrobertanhi/Nexa-TV`.
-- Não desative nem remova a tela inicial original da TV.
-- Se já usa o Nexa TV, exporte um backup antes de atualizar.
+## Usar o controle
 
-## 2. Instalação usando pendrive
+- Setas: navegar.
+- OK: abrir ou confirmar.
+- Segurar OK em um cartão: começar a mover o aplicativo.
+- Esquerda/direita durante o movimento: escolher a posição.
+- OK novamente: salvar; Voltar: cancelar.
+- Engrenagem: configurações, organização, backup e atualização.
 
-1. Baixe `Nexa-TV-4.4.0-Free-Preview.apk` no computador ou celular.
-2. Copie o APK para um pendrive.
-3. Conecte o pendrive à televisão.
-4. Abra um gerenciador de arquivos instalado na TV.
-5. Selecione o APK do Nexa TV.
-6. Quando o Android solicitar, permita **Instalar apps desconhecidos** somente
-   para o gerenciador usado nessa instalação.
-7. Confirme a instalação e abra **Nexa TV**.
-8. Depois de instalar, você pode revogar a permissão de fontes desconhecidas.
+## Desbloquear o aplicativo completo
 
-O nome exato das opções muda conforme a marca e a versão do Android. Não é
-necessário root, ADB ou serviço de acessibilidade para a instalação comum.
+1. Faça o pagamento único de **R$ 47,90** diretamente com Pedro.
+2. Receba a chave por um canal privado.
+3. Abra **Configurações → Nexa TV Completo → Ativar minha chave**.
+4. Digite a chave e selecione **Desbloquear aplicativo**.
+5. A licença comercial libera permanentemente todos os recursos em 1 TV.
 
-## 3. Primeiros passos
+A chave de teste da versão Free Preview funciona apenas no APK oficial de
+prévia e expira em 25/11/2026. Ela não é uma licença comercial.
 
-Ao abrir o aplicativo:
+## Verificar o APK
 
-1. Use as setas do controle para navegar pelos cartões.
-2. Pressione **OK** para abrir o aplicativo selecionado.
-3. Abra a engrenagem e defina o nome mostrado no perfil.
-4. Entre em **Organizar aplicativos** para ajustar a tela inicial.
-5. Teste Netflix, YouTube, Play Store e outros aplicativos antes de definir o
-   Nexa TV como tela inicial padrão.
+SHA-256 esperado:
 
-## 4. Comandos do controle
+```text
+140aef1f84166c1ac4c70b87f7e376a0f5fe3aa82eda879501a5f22f58f2a0c2
+```
 
-| Comando | Função |
-|---|---|
-| Setas | Movem o foco entre menus e aplicativos |
-| OK | Abre ou confirma a opção selecionada |
-| Segurar OK | Inicia a movimentação de um cartão |
-| Esquerda/direita durante o movimento | Altera a posição do aplicativo |
-| OK durante o movimento | Salva a nova posição |
-| Voltar durante o movimento | Cancela sem salvar |
-| Menu | Abre o organizador de aplicativos |
+Fingerprint SHA-256 do certificado da prévia:
 
-## 5. Organizar aplicativos
+```text
+459cb753e9fcf554f58f977a092b5a4d81ba3b0028bbbc031bc86a09b3c69eab
+```
 
-1. Abra **Engrenagem → Organizar aplicativos**.
-2. Selecione um aplicativo e pressione OK para ver as opções.
-3. Use **Mostrar/Ocultar** para controlar o que aparece na tela inicial.
-4. Escolha **Definir como destaque** para mudar o aplicativo principal.
-5. Segure OK para mover um cartão diretamente.
-
-A Play Store permanece no final. Aplicativos novos podem entrar automaticamente
-na tela inicial; essa opção pode ser alterada em **Aparência e animações**.
-
-## 6. Ativar o Nexa TV Pro
-
-O pagamento é realizado fora do aplicativo diretamente com Pedro.
-
-1. Escolha o plano mensal:
-   - **Individual:** R$ 4,99 por mês, para 1 TV e 30 dias;
-   - **Família:** R$ 9,90 por mês, para até 3 TVs e 30 dias.
-2. Depois da confirmação do pagamento, receba sua chave Nexa TV.
-3. Na televisão, abra **Engrenagem → aba Nexa TV Pro → Ativar meu Pro**.
-4. Digite a chave completa e selecione **Liberar meu Pro**.
-5. Aguarde a tela **Pro ativado**.
-6. Selecione **Personalizar agora** para acessar os benefícios.
-
-A chave é vinculada à identidade da TV. Não publique a chave nem a envie em
-grupos. Para trocar de aparelho, solicite o desvinculamento antes de ativar na
-nova televisão.
-
-Na versão 4.4.0 Free Preview, o desenvolvedor pode fornecer uma chave temporária
-para testar o plano Individual. Ela funciona apenas no APK assinado com o
-certificado de desenvolvimento, não consulta o servidor e expira em 25/11/2026.
-Essa chave não existe nem funciona na futura edição comercial.
-
-## 7. Benefícios Pro
-
-- sete temas prontos;
-- duas cores por gradiente;
-- cores HEX personalizadas;
-- papel de parede próprio;
-- cartões compactos, padrões ou amplos;
-- preferências visuais incluídas no backup.
-
-Quando a assinatura vence, o aplicativo volta ao tema Free automaticamente. As
-preferências Pro permanecem salvas e voltam depois da renovação.
-
-## 8. Renovar a assinatura
-
-1. Faça o novo pagamento mensal diretamente com Pedro.
-2. A licença existente receberá mais 30 dias.
-3. Abra a aba **Nexa TV Pro → Atualizar assinatura** para consultar a renovação.
-
-Se a assinatura ainda possui dias restantes, eles são preservados. Se já venceu,
-os 30 dias começam no momento da renovação.
-
-## 9. Backup e atualização
-
-Antes de instalar uma versão nova:
-
-1. Abra **Configurações → Backup e restauração**.
-2. Selecione **Exportar configuração** e escolha onde salvar o JSON.
-3. Instale a nova versão por cima da atual.
-4. Se houver conflito de assinatura, desinstale a antiga somente depois de
-   confirmar que o backup foi salvo.
-5. Na versão nova, selecione **Importar configuração**.
-
-A licença não é transferida pelo backup. Ela continua ligada à identidade da
-instalação original; em uma reinstalação completa pode ser necessário informar a
-chave novamente ou solicitar o reset das TVs vinculadas.
-
-O backup é um JSON legível. Quem receber o arquivo poderá ver o nome do perfil,
-a ordem e os aplicativos ocultos. Ele não inclui licença, identidade do aparelho,
-histórico de atualização, ETag nem a opção de consulta automática. Importar um
-backup não faz conexão com a internet.
-
-## 10. Atualizações seguras
-
-A consulta automática vem desligada. Para ativá-la, abra **Configurações →
-Atualizações** e confirme nesta TV. Depois disso, o Nexa TV consulta somente o
-repositório oficial, no máximo uma vez por dia. O aplicativo não baixa nem
-instala APKs sozinho: ele abre a página oficial e o usuário confirma a instalação.
-
-## 11. Tela inicial padrão
-
-Abra **Engrenagem → Tela inicial padrão**. Se o firmware oferecer a seleção,
-escolha Nexa TV. Alguns televisores não permitem substituir o launcher; nesses
-casos, abra o Nexa TV normalmente pela lista de aplicativos.
-
-Para desfazer, escolha o launcher original nas configurações do Android ou
-desinstale o Nexa TV. Nunca remova componentes do sistema por comandos ADB.
-
-## 12. Solução de problemas
-
-### O APK não instala
-
-- confirme que a TV possui Android 8.0 ou superior;
-- verifique se a instalação por fontes desconhecidas foi autorizada;
-- se aparecer conflito de assinatura, exporte o backup e remova a versão antiga;
-- baixe o arquivo novamente pelo GitHub oficial.
-
-### A chave não ativa
-
-- confira letras, números e hífens;
-- verifique a conexão com a internet;
-- confirme que a chave ainda não venceu;
-- confira se o limite de TVs do plano foi atingido;
-- versões de prévia não aceitam chaves comerciais.
-
-### O Pro desapareceu
-
-- confira a data de validade em **Configurações → Nexa TV Pro**;
-- conecte a TV à internet e use **Atualizar assinatura**;
-- confirme se o pagamento mensal foi renovado;
-- se a TV foi trocada ou reinstalada, solicite suporte para desvinculação.
-
-### O layout está cortado
-
-- confirme que a resolução está em 16:9;
-- desative zoom ou ampliação de tela no sistema da TV;
-- teste com o tamanho de texto padrão;
-- informe o modelo da TV e envie uma foto da tela para correção específica.
-
-## 13. Segurança
-
-Baixe o Nexa TV somente do repositório oficial. O aplicativo não solicita
-contatos, microfone ou armazenamento amplo e não instala atualizações em
-silêncio. Nunca compartilhe chaves de licença ou arquivos recebidos de perfis não
-oficiais.
+Não instale se algum valor for diferente. Mantenha o launcher original do
+Google TV instalado para poder voltar à interface do fabricante.
