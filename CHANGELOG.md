@@ -1,5 +1,14 @@
 # Changelog
 
+## 4.6.0 — 26/10/2026
+
+- logo oficial em PNG no aplicativo e no GitHub;
+- removidos 17 recursos gráficos antigos sem uso;
+- removidos cliente, rota e validações do modelo mensal anterior;
+- APK reduzido de 3.397.734 para 504.545 bytes, redução de 85,1%;
+- compra única de R$ 47,90 mantida para 1 TV;
+- versão interna elevada para versionCode 18.
+
 ## 4.5.0 — 26/10/2026
 
 - compra única de R$ 47,90 para desbloquear todos os recursos em 1 TV;

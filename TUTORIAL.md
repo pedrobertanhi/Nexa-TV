@@ -1,8 +1,10 @@
-# Tutorial do Nexa TV 4.5.0
+# Tutorial do Nexa TV 4.6.0
+
+![Logo do Nexa TV](assets/nexa-logo.png)
 
 ## Instalar na televisão
 
-1. Baixe `Nexa-TV-4.5.0-Free-Preview.apk` pelo botão verde do README.
+1. Baixe `Nexa-TV-4.6.0-Free-Preview.apk` pelo botão verde do README.
 2. Copie o APK para um pendrive e conecte-o à TV.
 3. Abra o arquivo com um gerenciador de arquivos.
 4. Autorize temporariamente a instalação de apps desconhecidos para esse
@@ -35,7 +37,7 @@ prévia e expira em 25/11/2026. Ela não é uma licença comercial.
 SHA-256 esperado:
 
 ```text
-140aef1f84166c1ac4c70b87f7e376a0f5fe3aa82eda879501a5f22f58f2a0c2
+11963500d324e974f6d7f45447d6919f82454e7eec8b2e82435ba93d36c741d5
 ```
 
 Fingerprint SHA-256 do certificado da prévia:
