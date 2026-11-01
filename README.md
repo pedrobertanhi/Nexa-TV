@@ -7,13 +7,13 @@
 <h2 align="center">⬇️ CLIQUE ABAIXO PARA BAIXAR ⬇️</h2>
 
 <p align="center">
-  <a href="https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.6.0/Nexa-TV-4.6.0-Free-Preview.apk">
-    <img height="72" src="https://img.shields.io/badge/BAIXAR%20APK%20AGORA-NEXA%20TV%204.6.0-00C853?style=for-the-badge&amp;logo=android&amp;logoColor=white" alt="Baixar agora o APK do Nexa TV 4.6.0">
+  <a href="https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.6.1/Nexa-TV-4.6.1.apk">
+    <img height="72" src="https://img.shields.io/badge/BAIXAR%20APK%20AGORA-NEXA%20TV%204.6.1-00C853?style=for-the-badge&amp;logo=android&amp;logoColor=white" alt="Baixar agora o APK do Nexa TV 4.6.1">
   </a>
 </p>
 
 <h3 align="center">
-  <a href="https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.6.0/Nexa-TV-4.6.0-Free-Preview.apk">📺 TOQUE AQUI SE O BOTÃO NÃO ABRIR</a>
+  <a href="https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.6.1/Nexa-TV-4.6.1.apk">📺 TOQUE AQUI SE O BOTÃO NÃO ABRIR</a>
 </h3>
 
 ---
@@ -23,54 +23,40 @@
 </p>
 
 <p align="center">
-  <strong>Versão atual: 4.6.0 Free Preview</strong>
+  <strong>Versão atual: 4.6.1 — Prévia assinada</strong>
 </p>
 
 <p align="center"><strong>Android TV e Google TV 8.0 ou superior</strong></p>
 
 > [!IMPORTANT]
-> Este é o repositório público oficial de distribuição. A versão 4.6.0 disponível
-> aqui é uma prévia Free para testar a nova interface e uma ativação completa
-> temporária. A ativação comercial será liberada depois da publicação do servidor.
+> Este é o repositório público oficial de distribuição. A versão 4.6.1 é uma
+> prévia assinada para testes antes da versão final. Baixe somente pelos links
+> deste repositório e confira a integridade antes de instalar.
 
 ## Download
 
 Se o botão acima não aparecer, use o
-**[link direto para baixar o APK](https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.6.0/Nexa-TV-4.6.0-Free-Preview.apk)**.
+**[link direto para baixar o APK](https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.6.1/Nexa-TV-4.6.1.apk)**.
 
 - Android 8.0 ou superior;
 - Android TV ou Google TV;
-- SHA-256: `11963500d324e974f6d7f45447d6919f82454e7eec8b2e82435ba93d36c741d5`.
-- certificado da prévia: `459cb753e9fcf554f58f977a092b5a4d81ba3b0028bbbc031bc86a09b3c69eab`.
+- SHA-256: `53a8d4a0005a2b74c83a11e765d78339211103dc80e32fe2142c68bf709223de`.
+- certificado de assinatura: `f0c0d0d17e26e3207ec1ef285d08cce8599b1611267695ef02ee73506feaad0b`.
 
 Baixe somente por este repositório. Consulte o **[tutorial completo](TUTORIAL.md)**
 antes de instalar ou substituir uma versão anterior.
 
-## Novidades da versão 4.6.0
+## Novidades da versão 4.6.1
 
-- Logo oficial publicada em PNG no aplicativo e neste repositório.
-- Remoção de 17 imagens antigas e do código de renovação mensal sem uso.
-- APK 85,1% menor: passou de aproximadamente 3,4 MB para 505 KB.
-- Nexa TV Completo por **R$ 47,90 em pagamento único**, para 1 TV.
-- Sem mensalidade e com todos os recursos desbloqueados permanentemente.
-- Oferta única mais clara na aba separada **Nexa TV Completo**.
-- Cores selecionadas agora também aparecem em campos, menus, selos, ícones e
-  no modo de reorganização, sem roxo fixo fora do tema Nexa padrão.
-- Chave temporária de teste disponível até 25/11/2026 somente nesta prévia.
-
-### Nexa TV Completo
-
-O pagamento é feito fora do aplicativo. Depois do pagamento único de R$ 47,90,
-o usuário recebe uma chave e a digita em **Configurações → Nexa TV Completo**.
-A chave comercial desbloqueia o aplicativo permanentemente em 1 TV.
-
-Benefícios: temas, cores e gradientes personalizados, papel de
-parede próprio e tamanho ajustável dos cartões.
-
-> [!NOTE]
-> A chave temporária libera o aplicativo completo apenas para testar a interface.
-> Ela só funciona no APK oficial da prévia, fica vinculada à instalação e expira
-> automaticamente em 25/11/2026. Ela não funcionará na edição comercial.
+- APK de distribuição assinado pela chave definitiva do Nexa TV.
+- Verificação do certificado de assinatura e do SHA-256 durante a publicação.
+- Atualizador mais seguro: versões SemVer, prévias durante a fase de testes,
+  ETag, limite diário e URLs oficiais.
+- Restauração de backup atômica: se o arquivo for inválido, nenhuma preferência
+  é alterada.
+- Build de release com R8 para reduzir e ofuscar o código.
+- A 4.6.1 não oferece chave temporária pública. Recursos comerciais só devem ser
+  liberados por uma chave legítima recebida do responsável pelo Nexa TV.
 
 ## Conheça o Nexa TV
 
@@ -127,8 +113,8 @@ No computador, compare o SHA-256 do arquivo com `SHA256SUMS.txt`. Com o Android
 SDK instalado, confira também o certificado:
 
 ```shell
-sha256sum Nexa-TV-4.6.0-Free-Preview.apk
-apksigner verify --verbose --print-certs Nexa-TV-4.6.0-Free-Preview.apk
+sha256sum Nexa-TV-4.6.1.apk
+apksigner verify --verbose --print-certs Nexa-TV-4.6.1.apk
 ```
 
 Se qualquer valor divergir, não instale. Use [SECURITY.md](SECURITY.md) para
