@@ -6,18 +6,18 @@
 <h2 align="center">⬇️ CLIQUE ABAIXO PARA BAIXAR ⬇️</h2>
 
 <p align="center">
-  <a href="https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.6.7/Nexa-TV-4.6.7.apk">
-    <img height="72" src="https://img.shields.io/badge/BAIXAR%20APK%20AGORA-NEXA%20TV%204.6.7-00C853?style=for-the-badge&amp;logo=android&amp;logoColor=white" alt="Baixar agora o APK do Nexa TV 4.6.7">
+  <a href="https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.6.9/Nexa-TV-4.6.9.apk">
+    <img height="72" src="https://img.shields.io/badge/BAIXAR%20APK%20AGORA-NEXA%20TV%204.6.9-00C853?style=for-the-badge&amp;logo=android&amp;logoColor=white" alt="Baixar agora o APK do Nexa TV 4.6.9">
   </a>
 </p>
 
 <h3 align="center">
-  <a href="https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.6.7/Nexa-TV-4.6.7.apk">📺 TOQUE AQUI SE O BOTÃO NÃO ABRIR</a>
+  <a href="https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.6.9/Nexa-TV-4.6.9.apk">📺 TOQUE AQUI SE O BOTÃO NÃO ABRIR</a>
 </h3>
 
 ---
 
-<p align="center"><strong>Versão atual: 4.6.7 — Release assinada</strong></p>
+<p align="center"><strong>Versão atual: 4.6.9 — Release assinada</strong></p>
 <p align="center"><strong>Android TV e Google TV 8.0 ou superior</strong></p>
 
 > [!IMPORTANT]
@@ -26,21 +26,23 @@
 
 ## Download
 
-**[Baixar Nexa TV 4.6.7](https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.6.7/Nexa-TV-4.6.7.apk)**
+**[Baixar Nexa TV 4.6.9](https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.6.9/Nexa-TV-4.6.9.apk)**
 
 - Android TV ou Google TV 8.0 ou superior;
-- SHA-256: `14f13814ff5f3810db2ec1dc9b3b16c54cc1df8c59471e674c00fefb43200e6f`;
+- SHA-256: `e8a7dc69d6f7c0eee54115cd29111a885e01baebfad6c09f6519dd9fe0dd2748`;
 - certificado de assinatura: `f0c0d0d17e26e3207ec1ef285d08cce8599b1611267695ef02ee73506feaad0b`.
 
-Confira também `SHA256SUMS.txt` e `SIGNING-CERTIFICATE.txt` na [Release 4.6.7](https://github.com/pedrobertanhi/Nexa-TV/releases/tag/v4.6.7).
+Confira também `SHA256SUMS.txt` e `SIGNING-CERTIFICATE.txt` na [Release 4.6.9](https://github.com/pedrobertanhi/Nexa-TV/releases/tag/v4.6.9).
 
-## Novidades da versão 4.6.7
+## Novidades da versão 4.6.9
 
 - Validação da licença no servidor ao abrir e ao retomar o launcher.
 - Chave cancelada, inexistente ou desvinculada volta o app ao modo Free.
 - Falha de conexão não cria acesso novo: mantém apenas uma licença local já validada até a próxima conferência.
 - APK comercial assinada com a chave definitiva do Nexa TV.
 - Atualizador seguro com SemVer, ETag, limite diário e URLs oficiais.
+- Alerta discreto quando faltam cinco dias ou menos para a assinatura expirar.
+- Planos mensal (31 dias com margem de renovação), trimestral e anual.
 
 ## Recursos
 
