@@ -1,10 +1,10 @@
-# Tutorial do Nexa TV 4.6.7
+# Tutorial do Nexa TV 4.6.9
 
 ![Logo do Nexa TV](assets/nexa-logo.png)
 
 ## Instalar na televisão
 
-1. Baixe `Nexa-TV-4.6.7.apk` pela [Release oficial 4.6.7](https://github.com/pedrobertanhi/Nexa-TV/releases/tag/v4.6.7).
+1. Baixe `Nexa-TV-4.6.9.apk` pela [Release oficial 4.6.9](https://github.com/pedrobertanhi/Nexa-TV/releases/tag/v4.6.9).
 2. Copie o arquivo para um pendrive e conecte-o à TV.
 3. Abra o APK por um gerenciador de arquivos.
 4. Autorize temporariamente a instalação de apps desconhecidos para esse gerenciador.
@@ -33,7 +33,7 @@ A chave é vinculada a uma TV. O aplicativo confere seu status no servidor ao ab
 SHA-256 esperado:
 
 ```text
-14f13814ff5f3810db2ec1dc9b3b16c54cc1df8c59471e674c00fefb43200e6f
+e8a7dc69d6f7c0eee54115cd29111a885e01baebfad6c09f6519dd9fe0dd2748
 ```
 
 Fingerprint SHA-256 do certificado:
