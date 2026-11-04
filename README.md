@@ -63,10 +63,11 @@ Confira também `SHA256SUMS.txt` e `SIGNING-CERTIFICATE.txt` na [Release 4.6.9](
 ## Instalação resumida
 
 1. Baixe a APK pelo link oficial acima.
-2. Copie-a para um pendrive e conecte-o à TV.
-3. Abra com um gerenciador de arquivos e autorize a instalação temporariamente.
-4. Instale o Nexa TV e teste antes de defini-lo como tela inicial.
-5. Revogue a autorização de fontes desconhecidas se desejar.
+2. Escolha como levar o arquivo à TV: use um pendrive ou o [Send Files to TV](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv&hl=pt_BR).
+3. Para enviar pelo aplicativo, instale o Send Files to TV no celular e na TV; os dois dispositivos devem estar na mesma rede Wi-Fi.
+4. Envie a APK do celular para a TV, abra-a pelo próprio Send Files to TV ou por um gerenciador de arquivos e autorize a instalação temporariamente.
+5. Instale o Nexa TV e teste antes de defini-lo como tela inicial.
+6. Revogue a autorização de fontes desconhecidas se desejar.
 
 Antes de atualizar, faça um backup em **Configurações → Backup e restauração**.
 
