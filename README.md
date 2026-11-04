@@ -50,6 +50,14 @@ Confira também `SHA256SUMS.txt` e `SIGNING-CERTIFICATE.txt` na [Release 4.6.7](
 - Backup, restauração, acessibilidade e personalização.
 - Recursos completos liberados por chave legítima, vinculada a uma TV.
 
+## Veja o launcher
+
+<p align="center">
+  <img src="assets/nexa-home.webp" width="900" alt="Tela inicial do Nexa TV em uma Android TV">
+</p>
+
+<p align="center"><em>Tela inicial do Nexa TV — navegação otimizada para controle remoto.</em></p>
+
 ## Instalação resumida
 
 1. Baixe a APK pelo link oficial acima.
