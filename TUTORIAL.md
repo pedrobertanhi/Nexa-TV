@@ -21,7 +21,7 @@
 
 ## Desbloquear o aplicativo completo
 
-1. Faça o pagamento combinado diretamente com Pedro.
+1. [Fale comigo pelo Telegram](https://t.me/psychox7) para combinar o pagamento.
 2. Receba uma chave legítima por canal privado.
 3. Abra **Configurações → Nexa TV Completo → Ativar minha chave**.
 4. Digite a chave e selecione **Desbloquear aplicativo**.
