@@ -66,7 +66,13 @@ Confira também `SHA256SUMS.txt` e `SIGNING-CERTIFICATE.txt` na [Release 4.6.7](
 4. Instale o Nexa TV e teste antes de defini-lo como tela inicial.
 5. Revogue a autorização de fontes desconhecidas se desejar.
 
-Antes de atualizar, faça um backup em **Configurações → Backup e restauração**. Se houver conflito de assinatura, consulte o [tutorial completo](TUTORIAL.md).
+Antes de atualizar, faça um backup em **Configurações → Backup e restauração**.
+
+<p align="center">
+  <a href="https://github.com/pedrobertanhi/Nexa-TV/blob/main/TUTORIAL.md">
+    <img height="54" src="https://img.shields.io/badge/ABRIR%20TUTORIAL%20COMPLETO-8D61FF?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="Abrir tutorial completo do Nexa TV">
+  </a>
+</p>
 
 ## Privacidade
 
