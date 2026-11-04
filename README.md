@@ -12,6 +12,14 @@
   </a>
 </p>
 
+## Instalar
+
+1. Baixe a APK pelo botão acima.
+2. Envie para a TV por pendrive ou pelo [Send Files to TV](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv&hl=pt_BR), instalado no celular e na TV na mesma rede Wi‑Fi.
+3. Abra o arquivo na TV, autorize a instalação e conclua.
+
+Antes de atualizar, faça backup em **Configurações → Backup e restauração**. Veja o [tutorial completo](https://github.com/pedrobertanhi/Nexa-TV/blob/main/TUTORIAL.md) para todos os passos.
+
 <p align="center">
   <a href="https://github.com/pedrobertanhi/Nexa-TV/blob/main/TUTORIAL.md">Tutorial completo</a> ·
   <a href="https://github.com/pedrobertanhi/Nexa-TV/releases/tag/v4.6.9">Release e verificação</a>
@@ -27,14 +35,6 @@
 - Organização e ocultação de aplicativos.
 - Fundo dinâmico, backup, restauração e personalização.
 - Recursos completos por chave vinculada à TV.
-
-## Instalar
-
-1. Baixe a APK pelo botão acima.
-2. Envie para a TV por pendrive ou pelo [Send Files to TV](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv&hl=pt_BR), instalado no celular e na TV na mesma rede Wi‑Fi.
-3. Abra o arquivo na TV, autorize a instalação e conclua.
-
-Antes de atualizar, faça backup em **Configurações → Backup e restauração**. Veja o [tutorial completo](https://github.com/pedrobertanhi/Nexa-TV/blob/main/TUTORIAL.md) para todos os passos.
 
 ---
 
