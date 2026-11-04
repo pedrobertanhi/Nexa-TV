@@ -1,9 +1,9 @@
 {
-  "version_name": "4.6.7",
-  "version_code": 25,
+  "version_name": "4.6.9",
+  "version_code": 27,
   "channel": "production",
-  "apk": "https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.6.7/Nexa-TV-4.6.7.apk",
-  "sha256": "14f13814ff5f3810db2ec1dc9b3b16c54cc1df8c59471e674c00fefb43200e6f",
+  "apk": "https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.6.9/Nexa-TV-4.6.9.apk",
+  "sha256": "e8a7dc69d6f7c0eee54115cd29111a885e01baebfad6c09f6519dd9fe0dd2748",
   "pro_activation_available": true,
   "preview_test_activation_available": false
 }
