@@ -5,10 +5,25 @@
 ## Instalar na televisão
 
 1. Baixe `Nexa-TV-4.6.9.apk` pela [Release oficial 4.6.9](https://github.com/pedrobertanhi/Nexa-TV/releases/tag/v4.6.9).
-2. Copie o arquivo para um pendrive e conecte-o à TV.
-3. Abra o APK por um gerenciador de arquivos.
-4. Autorize temporariamente a instalação de apps desconhecidos para esse gerenciador.
-5. Abra o Nexa TV e teste setas, OK, Voltar e a abertura dos aplicativos antes de configurá-lo como tela inicial.
+2. Escolha uma das formas abaixo para levar o arquivo à TV.
+
+### Opção 1 — Pendrive
+
+3. Copie o arquivo para um pendrive e conecte-o à TV.
+4. Abra o APK por um gerenciador de arquivos.
+
+### Opção 2 — Enviar pelo celular com Send Files to TV
+
+3. Instale o [Send Files to TV](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv&hl=pt_BR) no seu celular e na televisão.
+4. Conecte os dois dispositivos à mesma rede Wi-Fi.
+5. No celular, abra o Send Files to TV, toque em **Enviar**, selecione a APK baixada e escolha a sua TV.
+6. Na TV, abra o Send Files to TV, toque em **Receber** e aguarde a transferência terminar.
+7. Abra o arquivo recebido pelo aplicativo ou por um gerenciador de arquivos.
+
+### Finalizar a instalação
+
+8. Autorize temporariamente a instalação de apps desconhecidos para o aplicativo que abriu o APK.
+9. Abra o Nexa TV e teste setas, OK, Voltar e a abertura dos aplicativos antes de configurá-lo como tela inicial.
 
 ## Usar o controle
 
