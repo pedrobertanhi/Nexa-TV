@@ -7,8 +7,8 @@
 <p align="center">Launcher para Android TV e Google TV 8.0 ou superior.</p>
 
 <p align="center">
-  <a href="https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.6.10/Nexa-TV-4.6.9.apk">
-    <img height="62" src="https://img.shields.io/badge/BAIXAR%20NEXA%20TV%204.6.9-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Baixar Nexa TV 4.6.9">
+  <a href="https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.6.10/Nexa-TV-4.6.10.apk">
+    <img height="62" src="https://img.shields.io/badge/BAIXAR%20NEXA%20TV%204.6.10-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Baixar Nexa TV 4.6.10">
   </a>
 </p>
 
