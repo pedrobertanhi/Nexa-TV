@@ -1,3 +1,10 @@
+## 4.7.0
+
+- Perfis locais, PIN e código de recuperação.
+- Modo simples, acesso rápido e diagnóstico local.
+- Licenças de planos pagos para até duas TVs.
+- Reforços de segurança na validação de licença.
+
 # Changelog
 
 ## 4.6.9 — 04/11/2026
