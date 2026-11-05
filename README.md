@@ -7,8 +7,8 @@
 <p align="center">Launcher para Android TV e Google TV 8.0 ou superior.</p>
 
 <p align="center">
-  <a href="https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.6.10/Nexa-TV-4.6.10.apk">
-    <img height="62" src="https://img.shields.io/badge/BAIXAR%20NEXA%20TV%204.6.10-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Baixar Nexa TV 4.6.10">
+  <a href="https://github.com/pedrobertanhi/Nexa-TV/releases/download/v4.7.0/Nexa-TV-4.7.0.apk">
+    <img height="62" src="https://img.shields.io/badge/BAIXAR%20NEXA%20TV%204.7.0-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Baixar Nexa TV 4.7.0">
   </a>
 </p>
 
@@ -22,7 +22,7 @@ Antes de atualizar, faça backup em **Configurações → Backup e restauração
 
 <p align="center">
   <a href="https://github.com/pedrobertanhi/Nexa-TV/blob/main/TUTORIAL.md">Tutorial completo</a> ·
-  <a href="https://github.com/pedrobertanhi/Nexa-TV/releases/tag/v4.6.10">Release e verificação</a>
+  <a href="https://github.com/pedrobertanhi/Nexa-TV/releases/tag/v4.7.0">Release e verificação</a>
 </p>
 
 <p align="center">
